@@ -1,20 +1,56 @@
-<h3 align="center"></h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrhman1040&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrhman1040" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrhman1040" alt="abdelrhman1040" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdelrhman alaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrhman alaa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abdelrhman1040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdelrhman1040" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm Abdelrhman Alaa</h1>
+<p align="center">
+  <em>Electronics & Communication Engineering Student | Embedded Systems Enthusiast | Game Developer</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhman1040&show_icons=true&locale=en&layout=compact" alt="abdelrhman1040" /></p>
+🎓 **About Me**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhman1040&show_icons=true&locale=en" alt="abdelrhman1040" /></p>
+I'm a passionate Electronics and Communication Engineering student at Nile University, with a strong interest in embedded systems, game development, and digital circuit design.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman1040&" alt="abdelrhman1040" /></p>
+🔍 I love turning complex problems into elegant solutions, whether that's designing a circuit using only logic gates, or building an educational game to visualize algorithms.
+
+---
+
+💡 **What I Do**
+
+- 🔧 Design and simulate digital logic circuits without microcontrollers  
+- 🤖 Build embedded systems projects using Arduino and sensors  
+- 🎮 Develop games with Unity (2D/3D) and SFML  
+- 💻 Code in Python, C++, C#, HTML, CSS, Luau  
+- 🛠️ Create 3D models and design UI using Blender, Figma, GIMP
+
+---
+
+🚀 **Featured Projects**
+
+- 🔋 [Servo Angle Control & Display (No Microcontroller)](https://github.com/abdelrhman1040/Servo-lcd-no-microcontroller)  
+  Servo motor control using only logic circuits with LCD feedback.
+
+- 🕹️ [Ping Pong on Logic Gates](https://github.com/abdelrhman1040/Ping-Pong-Built-on-Logic-Gates)  
+  Pong-style game built using logic gates only in Logisim.
+
+- 🌪️ [Crazy Maze - Algorithm Racing Game](https://github.com/abdelrhmanalaa1040/maze)  
+  Educational tool to visualize and compare A*, Dijkstra, BFS, DFS algorithms.
+
+- 🌿 [Trees and Grass Spawner Tool](https://github.com/abdelrhman1040/Trees-and-Grass-Spawner-Tool)  
+  Procedural vegetation placement in Unity.
+
+- 🎲 [Hangman Game](https://github.com/abdelrhman1040/Hangman-Game)  
+  Classic game with C++ and SFML with custom graphics.
+
+- 🚗 [Interactive HTML Learning Game](https://github.com/abdelrhman1040/HTML-Game)  
+  Learn HTML in a Unity-based car game with quizzes and leaderboard.
+
+---
+
+📫 **Let's Connect**
+
+- 📧 Email: Abdelrhman1040@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdelrhman-alaa-mohamed)  
+- 💻 [GitHub](https://github.com/abdelrhman1040)
+
+---
+
+⭐ *Thank you for visiting my profile. Feel free to explore my repositories and reach out if you're interested in collaborating!*
