@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdelrhman Alaa</h1>
+<h1 align="center">Hi 👋, I'm Abdelrahman Alaa</h1>
 <p align="center">
   <em>Electronics & Communication Engineering Student | Embedded Systems Enthusiast | Game Developer</em>
 </p>
